@@ -28,4 +28,4 @@ qualidades, o que me destaca dos demais é justamente meu vasto conhecimento e e
 
 >Summary of my profile
 
-![Tyr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrfir&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrfir&hide_progress=true)
+![Tyr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrfir&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberEduardo6&hide_progress=true)
